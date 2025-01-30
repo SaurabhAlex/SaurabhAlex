@@ -4,6 +4,8 @@
 
 <h3 align="center">Building the future with Flutter & Firebase ⚡</h3>
 
+### 👀 Profile Views  
+[![Profile Views](https://komarev.com/ghpvc/?username=SaurabhAlex&color=blue&style=for-the-badge)](https://github.com/SaurabhAlex)
 
 ---
 
