@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Saurabh Gupta! 👋</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h1 align="center">
+  Hi there, I'm Saurabh Gupta! 👋  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h3 align="center">Building the future with Flutter & Firebase ⚡</h3>
 
 ![Saurabh's GitHub Banner](https://user-images.githubusercontent.com/your-banner-image.png)
 
