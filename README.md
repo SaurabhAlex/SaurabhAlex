@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi there, I'm Saurabh Gupta!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hi+there%2C;I'm+Saurabh+Gupta!;Welcome+to+my+GitHub!+🚀" />
 </h1>
+
 <h3 align="center">Building the future with Flutter & Firebase ⚡</h3>
 
 
