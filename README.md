@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Saurabh Gupta 👋
+
+A passionate Mobile Application developer
 
 <!--
 **SaurabhAlex/SaurabhAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
