@@ -22,7 +22,7 @@
 
 ### 🚀 Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,mongoDB,github,git,figma,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,mongodb,cpp,js,git,github,figma,androidstudio,vscode" />
 </p>
 
 ### 📈 Most Used Languages  
