@@ -44,9 +44,9 @@ I always stay **hydrated** 💧 and rarely feel **tired** 😎
 ---
 
 ⭐ **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurabhguptasde/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/GuptaSaura93808)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web)](https://saurabhalex.github.io/Portfolio/)  
 
 ---
 
