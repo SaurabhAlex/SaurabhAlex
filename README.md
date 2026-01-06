@@ -3,20 +3,21 @@
 </h1>
 
 <h3 align="center">
-Flutter Developer | 2+ Years Experience
+Flutter Developer | 2+ Years of Production Experience
 </h3>
 
 <p align="center">
-Flutter Engineer focused on performance, clean architecture & real-world apps
+Building reliable, performance-focused mobile apps with Flutter
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Flutter Developer with **2+ years of production experience**
+
+- Flutter Developer with **2+ years of real-world production experience**
 - Currently working at **Infinite Group**
-- Built & deployed multiple **Android & iOS apps** (Play Store & App Store)
-- Strong in **Bloc, GetX, app performance & UI animations**
+- Built and deployed multiple **Android & iOS apps** (Play Store & App Store)
+- Strong in **Bloc, GetX, clean architecture, app performance**
 - Hands-on with **Firebase (Auth, Firestore, FCM)** & REST APIs
 - Expanding backend skills with **Node.js & MongoDB**
 - 📫 **saurabhguptasde@gmail.com**
@@ -24,31 +25,28 @@ Flutter Engineer focused on performance, clean architecture & real-world apps
 ---
 
 ## 🧠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,cpp,js,git,github,figma,androidstudio,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SaurabhAlex&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SaurabhAlex&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
 
-## 📈 Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhAlex&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
+> Note: Only **one stats card** is intentionally used to avoid GitHub rate-limit issues.
 
 ---
 
 ## 🎯 2026 Focus
+
 - Build scalable Flutter apps with **clean architecture**
 - Strengthen backend integration (**Node.js + Firebase**)
 - Improve **DSA & problem-solving** for product-based companies
@@ -57,12 +55,13 @@ Flutter Engineer focused on performance, clean architecture & real-world apps
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/saurabhguptasde/) •
-[X](https://x.com/GuptaSaura93808) •
-[Portfolio](https://saurabhalex.github.io/Portfolio/)
+
+- 💼 LinkedIn: https://www.linkedin.com/in/saurabhguptasde/
+- 🐦 X (Twitter): https://x.com/GuptaSaura93808
+- 🌐 Portfolio: https://saurabhalex.github.io/Portfolio/
 
 ---
 
 <p align="center">
-<i>Focused on building reliable apps, not just demos.</i>
+<i>Focused on building real apps — not flashy demos.</i>
 </p>
