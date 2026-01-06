@@ -20,9 +20,8 @@ Flutter engineer focused on performance, clean architecture & real-world apps.
 ![Tech Stack](https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,cpp,js,git,github,figma,androidstudio,vscode)
 
 ---
-
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhAlex&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhalex&show_icons=true&theme=dark&hide_border=false)
 
 ---
 
