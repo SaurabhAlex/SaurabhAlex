@@ -1,67 +1,38 @@
-<h1 align="center">
-  Hi, I'm Saurabh Gupta 👋
-</h1>
+# Hi, I'm Saurabh Gupta 👋
 
-<h3 align="center">
-Flutter Developer | 2+ Years of Production Experience
-</h3>
+### Flutter Developer | 2+ Years of Experience
 
-<p align="center">
-Building reliable, performance-focused mobile apps with Flutter
-</p>
+Flutter engineer focused on performance, clean architecture & real-world apps.
 
 ---
 
 ## 👨‍💻 About Me
-
-- Flutter Developer with **2+ years of real-world production experience**
-- Currently working at **Infinite Group**
-- Built and deployed multiple **Android & iOS apps** (Play Store & App Store)
-- Strong in **Bloc, GetX, clean architecture, app performance**
-- Hands-on with **Firebase (Auth, Firestore, FCM)** & REST APIs
-- Expanding backend skills with **Node.js & MongoDB**
-- 📫 **saurabhguptasde@gmail.com**
+- Flutter Developer with **2+ years production experience**
+- Working at **Infinite Group**
+- Android & iOS apps live on Play Store & App Store
+- Bloc, GetX, Firebase, REST APIs
+- Learning Node.js & MongoDB
+- 📧 saurabhguptasde@gmail.com
 
 ---
 
 ## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,cpp,js,git,github,figma,androidstudio,vscode" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,cpp,js,git,github,figma,androidstudio,vscode)
 
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SaurabhAlex&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-> Note: Only **one stats card** is intentionally used to avoid GitHub rate-limit issues.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhAlex&show_icons=true&theme=dark)
 
 ---
 
 ## 🎯 2026 Focus
-
-- Build scalable Flutter apps with **clean architecture**
-- Strengthen backend integration (**Node.js + Firebase**)
-- Improve **DSA & problem-solving** for product-based companies
-- Contribute to **meaningful open-source projects**
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/saurabhguptasde/
-- 🐦 X (Twitter): https://x.com/GuptaSaura93808
-- 🌐 Portfolio: https://saurabhalex.github.io/Portfolio/
+- Clean architecture Flutter apps
+- Backend integration (Node.js + Firebase)
+- DSA for product-based companies
+- Open-source contributions
 
 ---
 
-<p align="center">
-<i>Focused on building real apps — not flashy demos.</i>
-</p>
+🔗 LinkedIn: https://www.linkedin.com/in/saurabhguptasde  
+🔗 Portfolio: https://saurabhalex.github.io/Portfolio/
