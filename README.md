@@ -26,14 +26,6 @@ Senior Flutter Engineer dedicated to building high-performance, scalable cross-p
 
 ---
 
-### 📊 GitHub Analysis
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhalex&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhalex&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ### 🎯 2026 Milestone
 - [ ] Mastering **Microservices** with Node.js
 - [ ] Contributing to **Flutter Framework Core** (Open Source)
