@@ -1,39 +1,45 @@
-# Hi, I'm Saurabh Gupta 👋 
-### Senior Flutter Developer | Dart Specialist | 3 Years of Experience
+# Hi, I'm Saurabh Gupta 👋
+### Flutter Developer | Dart Specialist | 3+ Years of Experience
 
-Senior Flutter Engineer dedicated to building high-performance, scalable cross-platform applications. Expertise in clean architecture, seamless UI/UX, and robust backend integrations.
+Flutter developer building scalable, production-ready Android and iOS apps with a strong focus on Clean Architecture, state management, backend integration, and polished user experience.
 
 ---
 
 ### 🚀 Quick Overview
 - 🏢 Currently working at **Infinite Group**
-- 📱 Successfully deployed multiple apps on **[Play Store](YOUR_LINK)** & **[App Store](YOUR_LINK)**
-- 🛠️ Expert in **BLoC, GetX, Clean Architecture (MVVM/Solid)**
-- 🌐 Expanding horizons with **Node.js, MongoDB & Backend Scalability**
-- 📧 Reach me at: [saurabhguptasde@gmail.com](mailto:saurabhguptasde@gmail.com)
+- 📱 Built and shipped production apps to **Play Store** and **App Store**
+- 🛠️ Strong in **Flutter, Dart, Bloc, GetX, Clean Architecture, MVVM**
+- 🌐 Experience with **REST APIs, JWT auth, Firebase, WebSockets, geolocation tracking, and offline sync**
+- ⚙️ Working with **Python, FastAPI, and SQLite**
+- 📧 Reach me at: **saurabhguptasde@gmail.com**
 
 ---
 
-### 🛠️ Professional Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
+| Category | Skills |
 | :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **State Management** | BLoC, GetX, Provider |
-| **Backend & Database** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Architecture** | Clean Architecture, MVVM, TDD, REST APIs |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+| **Mobile** | Flutter, Dart, Android, iOS |
+| **State Management** | Bloc, GetX, Provider |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, Feature-first Modular Structure |
+| **Backend & APIs** | REST APIs, JWT Authentication, Dio, WebSockets, Firebase, FastAPI |
+| **Database & Storage** | SQLite, SharedPreferences, GetStorage |
+| **Location & Sync** | Google Maps, Geolocation Tracking, Offline Sync |
+| **Performance** | Pagination, Infinite Scrolling, Responsive UI, Performance Optimization |
+| **DevOps & Tools** | Git, GitHub, Bitbucket, Codemagic CI/CD, Postman, Figma, Jira |
+| **Deployment** | Play Store, App Store |
 
 ---
 
-### 🎯 2026 Milestone
-- [ ] Mastering **Microservices** with Node.js
-- [ ] Contributing to **Flutter Framework Core** (Open Source)
-- [ ] Deep diving into **DSA** for scalable system design
-- [ ] Mentoring junior developers in **Clean Code** practices
+### 🎯 Current Focus
+- Building high-performance Flutter apps
+- Developing backend services with FastAPI
+- Strengthening system design and DSA
+- Creating reusable, production-grade architecture patterns
 
 ---
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhguptasde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saurabhalex.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhguptasde@gmail.com)
